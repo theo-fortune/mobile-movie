@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../code/mobile_movie"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../interfaces"
+		},
+		{
+			"path": "../types"
+		},
+		{
+			"path": "../assets"
+		}
+	],
+	"settings": {}
+}
